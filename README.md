@@ -14,8 +14,8 @@ A single-file, unlimited Wordle game. Plays in any phone or desktop browser, no 
 - Yerelde: `index.html` dosyasına çift tıkla.
 - Online (GitHub Pages): repo → **Settings → Pages → Build and deployment → Deploy from a branch → `main` / `(root)` → Save**. Birkaç dakika sonra oyun `https://<kullanici-adin>.github.io/<repo-adi>/` adresinde açılır. Bu adresi telefonda açıp "Ana ekrana ekle" ile uygulama gibi kullanabilirsin.
 
-| Normal | Easy Mode |
-|:---:|:---:|
+| Normal |
+|:---:|
 | <img src="screenshot0.png" width="260" alt="Wordle game screenshot"> |
 
 ## Notlar / Notes
