@@ -16,7 +16,7 @@ A single-file, unlimited Wordle game. Plays in any phone or desktop browser, no 
 
 | Normal |
 |:---:|
-| <img src="screenshot0.png" width="260" alt="Wordle game screenshot"> |
+| <img src="image/screenshot0.png" width="260" alt="Wordle game screenshot"> |
 
 ## Notlar / Notes
 - Tahmin olarak her 5 harfli kombinasyon kabul edilir (kelime doğrulaması yok).
